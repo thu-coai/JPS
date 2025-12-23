@@ -346,10 +346,11 @@ tail -f process_logs/latest.log
 If you find our work helpful, please consider citing our paper:
 
 ```bibtex
-@article{chen2025jps,
-  title={JPS: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering},
+@inproceedings{chen2025jps,
+  title={Jps: Jailbreak multimodal large language models with collaborative visual perturbation and textual steering},
   author={Chen, Renmiao and Cui, Shiyao and Huang, Xuancheng and Pan, Chengwei and Huang, Victor Shea-Jay and Zhang, QingLin and Ouyang, Xuan and Zhang, Zhexin and Wang, Hongning and Huang, Minlie},
-  journal={arXiv preprint arXiv:2508.05087},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={11756--11765},
   year={2025}
 }
 ```
